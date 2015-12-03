@@ -1,13 +1,12 @@
+# Get Started with Django from Azure
 
-Get Started with Django from Azure
+Welcome to application development in the web. This will not only teach you how to build a simple app. But will give you context for web development. It is well done, articulate, and includes great descriptions and philosophies for why things are done. Not only fascinating, but a great foundation for other web development frameworks. Get some good music going and start jamming through.
 
-This guide was designed to help a young developer get started developing for the web. It provides tools and configuration before deep diving into the Model, View, Controller architecture. 
+## Sign up:
 
-Getting started with MVC is easy, and this was designed to make it even easier. This guide will also provide a context to practice source code management, tooling configuration, and working with repositories. 
-
-As with most things technology, there will be a focus on the cloud. This means that our deployment will live in the cloud. Every change we make will be pushed to a live and active site that you can visit from anywhere in the world!
-
-So once you learn how to build, you will be familiar with deploying and managing.  
+1. DreamSpark account https://www.dreamspark.com/product/product.aspx?productid=99 
+2. Sign up https://azure.microsoft.com/en-us/pricing/free-trial/
+3. Manage manage.windowsazure.com
 
 ## There are 6 pieces to this lesson.  
 
@@ -26,13 +25,6 @@ So once you learn how to build, you will be familiar with deploying and managing
 - An Azure Subscription ([Bizspark](http://www.microsoft.com/bizspark/ "Gotta get me some of that bizspark. I can hook you up as well @timmyreilly") or [free trial](http://azure.microsoft.com/en-us/pricing/free-trial/ "Free trial site. Let me know if it's changed @timmyreilly"))
 - [Git](https://github.com/) and a Git shell
 - [Powershell](http://en.wikipedia.org/wiki/Windows_PowerShell "This wikipedia is excellent ") or Terminal 
-
-## Your Box 
-
--  You should be able to do these things before we continue
-	1. Open files with Sublime
-	2. Change to your GitHub directory with powershell
-	3. Run Python's REPL in powershell
 
 ## The Cloud
 
@@ -135,6 +127,12 @@ Your tools are setup, your files are in line and you're ready to learn without c
 From here on out, every 15 minutes as you learn and work simply run those three commands in the GitShell to see what your website looks like and keep you code safe and in a cozy cloud. 
 
 
+## Additional resources
+- Find out some news/tutorials friday.azure.com
+- Get Started with Web Apps
+ https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-started/
+- Python http://learnpythonthehardway.org/book/ 
+
 ##Learning
 
 This is just the start. You are now ready to open your mind to the fascinating and wonderful world of web development. 
@@ -151,14 +149,6 @@ This tutorial will teach you so much, and is right in line with this project. I 
 
 [http://www.djangobook.com/en/2.0/index.html](http://www.djangobook.com/en/2.0/index.html)
 
-Welcome to application development in the web. This will not only teach you how to build a simple app. But will give you context for web development. It is well done, articulate, and includes great descriptions and philosophies for why things are done. Not only fascinating, but a great foundation for other web development frameworks. Get some good music going and start jamming through.
 
-Hope this tutorial helps. 
-
-Please let me know if anything is unclear, 
-you need help, or feel like geeking out.
-
-[@timmyreilly](https://twitter.com/timmyreilly)
-or
-[timmyreilly.com](http://timmyreilly.com/)
+Source: http://timmyreilly.com/
 
